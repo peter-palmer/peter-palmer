@@ -13,7 +13,7 @@
 - 🏢 I'm currently working for myself.
 - ⚙️ I use daily: `.js`, `.tsx`, `.html`, `.css`, `.scss`, `.svg`, `.json`
 - 🌍 I'm mostly active within the **JavaScript Community**
-- 💅 Owner of: [Generador de Políticas](https://www.generadordepoliticas.com)
+- 💻 Owner of: [Generador de Políticas](https://www.generadordepoliticas.com)
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **branding**, **javascript**, **development**, **design thinking**
 - 📫 Reach me: [instagram.com/peter.coding](https://instagram.com/peter.coding)
