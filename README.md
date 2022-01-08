@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Barcelona, Spain.
+#### I'm a Software Developer and Marketer living at Barcelona, Spain.
 
 ##### NOW
 
