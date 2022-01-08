@@ -4,16 +4,16 @@
 
 ##### NOW
 
-- ✨ Crafted last [Laracon Online](https://citroflex.com) website;
-- 🇵🇹 Planing the "Tuga-Co-Op";
+- ✨ Owner and Chairman of [Citroflex](https://citroflex.com) a Web Maintenance Agency;
+- ✈️ Love Traveling;
 - 🍑 What about this?
 
 ##### BIO
 
-- 🏢 I'm currently working at **Medicare Portugal**
+- 🏢 I'm currently working for myself.
 - ⚙️ I use daily: `.js`, `.tsx`, `.html`, `.css`, `.scss`, `.svg`, `.json`
 - 🌍 I'm mostly active within the **JavaScript Community**
 - 💅 Owner of: [Generador de Políticas](https://www.generadordepoliticas.com)
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- 💬 Ping me about **design**, **branding**, **javascript**, **development**, **design thinking**
 - 📫 Reach me: [instagram.com/peter.coding](https://instagram.com/peter.coding)
